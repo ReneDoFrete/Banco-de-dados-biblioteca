@@ -1,0 +1,1 @@
+SELECT * FROM emprestimo WHERE data_emprestimo BETWEEN '2026-11-02' AND '2026-11-04';

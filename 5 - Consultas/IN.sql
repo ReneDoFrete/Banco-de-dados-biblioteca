@@ -1,0 +1,1 @@
+SELECT * FROM livro WHERE idLivro IN (1, 3, 5, 7);
